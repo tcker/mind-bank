@@ -12,6 +12,6 @@
 
 | Project Name        | Link                                                |
 |---------------------|-----------------------------------------------------|
-| Vinland Saga WebMap | [Vinland Saga WebMap](https://websys-bang-midterm.vercel.app/) |
+| Vinland Saga WebMap | [Vinland Saga WebMap](https://websys-baarde-midterm.vercel.app/) |
 
 </div>
