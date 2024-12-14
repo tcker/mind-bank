@@ -17,6 +17,8 @@
 
 <div align="center">
 
+### **Get ready for white screen** 👀
+
 | Project Name        | Link                                                |
 |---------------------|-----------------------------------------------------|
 | Vinland Saga WebMap | [Vinland Saga WebMap](https://websys-baarde-midterm.vercel.app/) |
