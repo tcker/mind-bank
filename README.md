@@ -20,8 +20,8 @@
 ### **Click one of the Images**
 
 [![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
-[![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://websys-baarde-midterm.vercel.app/)
-[![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://websys-baarde-midterm.vercel.app/)
+[![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://tcker.github.io/qr-code-component-main.io/)
+[![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://tcker.github.io/E-commerce-Web.github.io)
 
 | Project Name        | Link                                                | Description                                         |
 |---------------------|-----------------------------------------------------|-----------------------------------------------------|
