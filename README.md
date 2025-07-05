@@ -29,4 +29,11 @@
 | Front-End-Mentor-QR | [qr-component](https://tcker.github.io/qr-code-component-main.io/) | Created from front-end mentor |
 | StudentPH-Quest#2 Pure CSS | [HypePi](https://tcker.github.io/E-commerce-Web.github.io) | ❗ Cautions: Lag 3D model |
 
+# The-Odin-Project Series
+
+| Project                   | Link               | Description |
+|---------------------------|--------------------|-------------|
+| **my-odin-recipes**       | [my-odin-recipe](https://tcker.github.io/odin-recipes.github-io/) | Not yet finished  |
+| **my-odin-simpleLandingPage** | [odin-simple-landingPage](https://tcker.github.io/odin-simple-landing-page.io/) | Simple landing page |
+
 </div>
