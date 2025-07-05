@@ -41,7 +41,7 @@
 [![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
 #### Front End Mentor QR Code
 [![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://tcker.github.io/qr-code-component-main.io/)
-#### StudetnPH-Quest#2 Pure CSS HypePi E-commerce
+#### StudentPH-Quest#2 Pure CSS HypePi E-commerce
 [![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://tcker.github.io/E-commerce-Web.github.io)
 #### My-odin-recipes
 [![my-odin-recipes](/assets/odinrecipe.png)](https://tcker.github.io/odin-recipes.github-io/)
