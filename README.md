@@ -17,7 +17,11 @@
 
 <div align="center">
 
-### **Get ready for white screen** 👀
+### **Click one of the Images**
+
+[![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
+[![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://websys-baarde-midterm.vercel.app/)
+[![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://websys-baarde-midterm.vercel.app/)
 
 | Project Name        | Link                                                | Description                                         |
 |---------------------|-----------------------------------------------------|-----------------------------------------------------|
