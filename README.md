@@ -17,11 +17,7 @@
 
 <div align="center">
 
-### **Click one of the Images**
-
-[![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
-[![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://tcker.github.io/qr-code-component-main.io/)
-[![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://tcker.github.io/E-commerce-Web.github.io)
+<div align="center">
 
 | Project Name        | Link                                                | Description                                         |
 |---------------------|-----------------------------------------------------|-----------------------------------------------------|
@@ -37,3 +33,19 @@
 | **my-odin-simpleLandingPage** | [odin-simple-landingPage](https://tcker.github.io/odin-simple-landing-page.io/) | Simple landing page |
 
 </div>
+
+### **Click one of the Images**
+</div>
+
+#### Vinland Saga WebMap
+[![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
+#### Front End Mentor QR Code
+[![Front-End-Mentor-QR](/assets/frontendmentor.png)](https://tcker.github.io/qr-code-component-main.io/)
+#### StudetnPH-Quest#2 Pure CSS HypePi E-commerce
+[![StudentPH-Quest#2 Pure CSS](/assets/HypePi.png)](https://tcker.github.io/E-commerce-Web.github.io)
+#### My-odin-recipes
+[![my-odin-recipes](/assets/odinrecipe.png)](https://tcker.github.io/odin-recipes.github-io/)
+#### Odin-simple-landing-page
+[![my-odin-simpleLandingPage](/assets/odinsimpleland.png)](https://tcker.github.io/odin-simple-landing-page.io/)
+
+
