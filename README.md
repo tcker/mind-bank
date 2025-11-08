@@ -37,6 +37,10 @@
 ### **Click one of the Images**
 </div>
 
+#### Rentado.ph
+[![rentadoph](https://github.com/tcker/mind-bank/blob/main/assets/rentado.png)](https://rentadoph.vercel.app/)
+#### Php Landing page
+![Php Landing Page](https://github.com/tcker/mind-bank/blob/main/assets/mepage.png)
 #### Vinland Saga WebMap
 [![Vinland Saga WebMap](/assets/webmap.png)](https://websys-baarde-midterm.vercel.app/)
 #### Front End Mentor QR Code
