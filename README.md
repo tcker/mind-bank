@@ -26,6 +26,8 @@
 
 #### Rentado.ph
 [![rentadoph](https://github.com/tcker/mind-bank/blob/main/assets/rentado.png)](https://rentadoph.vercel.app/)
+#### Locke's Escape Game
+[![Locke's Escape Game](https://github.com/rambaarde/mind-bank/blob/main/assets/locke.png)](https://tripleb-studio.vercel.app/)
 #### Php Landing page
 ![Php Landing Page](https://github.com/tcker/mind-bank/blob/main/assets/mepage.png)
 #### Vinland Saga WebMap
